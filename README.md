@@ -1,6 +1,6 @@
 👋 Hi there, I'm Don Daniell C. Gube!
 
-💡I'm enthusiastic about learning 
+💡I'm a software developer
 
 🔎 I'm currently learning Python 
 
